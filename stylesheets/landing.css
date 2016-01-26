@@ -93,10 +93,15 @@ footer{
 }
 
 .jumbotron{
-  background: url('https://picjumbo.imgix.net/HNCK8910.jpg?q=40&w=1650&sharp=30') no-repeat center;
+  background: url("http://img.over-blog-kiwi.com/0/02/75/01/201305/ob_c8e5fa_fantasy-art-opening-working-wallpapers-wallpaper.jpeg") no-repeat center;
   background-size: cover;
+  
 }
 
 .portrait_name{
     background: rgba(230, 230, 230, 0.7);
+}
+body{
+    background-color:#C8DA8D;
+    
 }
